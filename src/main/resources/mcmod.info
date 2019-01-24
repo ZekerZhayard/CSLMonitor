@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cslmonitor",
+  "name": "CSLMonitor",
+  "description": "CSLMonitor.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ZekerZhayard"],
+  "credits": "GPLv2",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
